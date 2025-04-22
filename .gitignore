@@ -1,0 +1,24 @@
+# Video files
+*.mp4
+*.mov
+*.avi
+*.wmv
+*.flv
+*.mkv
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if you add them later)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log 
